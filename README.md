@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/abhilaksharora](https://dev.to/abhilaksharora)
 
-- 📫 How to reach me **abhilaksharora@gmail.com**
+- 📫 How to reach me **arora.abhilaksh@gmail.com**
 
 - 📄 Know about my experiences [https://abhilaksharora.tech/resume](https://abhilaksharora.tech/resume)
 
