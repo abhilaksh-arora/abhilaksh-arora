@@ -6,13 +6,13 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://abhilaksharora.tech](https://abhilaksharora.tech)
+- 👨‍💻 All of my projects are available at [https://abhilaksharora.com](https://abhilaksharora.com)
 
 - 📝 I regularly write articles on [https://dev.to/abhilaksharora](https://dev.to/abhilaksharora)
 
 - 📫 How to reach me **arora.abhilaksh@gmail.com**
 
-- 📄 Know about my experiences [https://abhilaksharora.tech/resume](https://abhilaksharora.tech/resume)
+- 📄 Know about my experiences [https://abhilaksharora.com/resume](https://abhilaksharora.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 
