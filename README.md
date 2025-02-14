@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" align="center" />
 <h1 align="center">Hi 👋, I'm Abhilaksh Arora</h1>
 <h3 align="center">A passionate Fullstack Developer from IN</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*qBNlFWQ9G_RPVm7tbZaXOw.jpeg" align="right" width="400" />
@@ -35,3 +34,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" align="center" />
